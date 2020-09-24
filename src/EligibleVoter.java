@@ -9,7 +9,7 @@ public class EligibleVoter {
         int age1=sc.nextInt();
 
         if (age1>=18){
-            System.out.println("The person is eligible to vote");
+            System.out.println("The person is eligible to vote");//positive result
         }else{
             System.out.println("The person is not eligible to vote");  //negetive result
         }
