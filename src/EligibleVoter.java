@@ -11,7 +11,7 @@ public class EligibleVoter {
         if (age1>=18){
             System.out.println("The person is eligible to vote");
         }else{
-            System.out.println("The person is not eligible to vote");
+            System.out.println("The person is not eligible to vote");  //negetive result
         }
     }
 }
